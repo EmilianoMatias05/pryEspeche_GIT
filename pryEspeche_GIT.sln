@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryEspeche_GIT", "pryEspeche_GIT\pryEspeche_GIT.csproj", "{D1C2A3A3-5AF9-48A1-AB4A-2495F1FC0DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C2A3A3-5AF9-48A1-AB4A-2495F1FC0DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C2A3A3-5AF9-48A1-AB4A-2495F1FC0DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C2A3A3-5AF9-48A1-AB4A-2495F1FC0DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C2A3A3-5AF9-48A1-AB4A-2495F1FC0DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F756C5D-8690-412A-9ACE-542E97C93285}
+	EndGlobalSection
+EndGlobal
